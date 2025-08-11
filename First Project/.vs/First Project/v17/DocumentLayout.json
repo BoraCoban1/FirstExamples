@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\borac\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\First Project\\",
+  "WorkspaceRootPath": "C:\\Users\\kutay\\OneDrive\\Masa\u00FCst\u00FC\\BoraProject\\FirstExamples\\First Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75E62536-88DE-49BD-B267-52CCF39E688F}|First Project\\First Project.vcxproj|C:\\Users\\borac\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\First Project\\First Project\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{75E62536-88DE-49BD-B267-52CCF39E688F}|First Project\\First Project.vcxproj|C:\\Users\\kutay\\OneDrive\\Masa\u00FCst\u00FC\\BoraProject\\FirstExamples\\First Project\\First Project\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{75E62536-88DE-49BD-B267-52CCF39E688F}|First Project\\First Project.vcxproj|solutionrelative:First Project\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\borac\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\First Project\\First Project\\FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\kutay\\OneDrive\\Masa\u00FCst\u00FC\\BoraProject\\FirstExamples\\First Project\\First Project\\FileName.cpp",
               "RelativeDocumentMoniker": "First Project\\FileName.cpp",
-              "ToolTip": "C:\\Users\\borac\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\First Project\\First Project\\FileName.cpp",
+              "ToolTip": "C:\\Users\\kutay\\OneDrive\\Masa\u00FCst\u00FC\\BoraProject\\FirstExamples\\First Project\\First Project\\FileName.cpp",
               "RelativeToolTip": "First Project\\FileName.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-11T13:23:41.33Z",
               "EditorCaption": ""
