@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\borac\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\First Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E62536-88DE-49BD-B267-52CCF39E688F}|First Project\\First Project.vcxproj|C:\\Users\\borac\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\First Project\\First Project\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75E62536-88DE-49BD-B267-52CCF39E688F}|First Project\\First Project.vcxproj|solutionrelative:First Project\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\borac\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\First Project\\First Project\\FileName.cpp",
+              "RelativeDocumentMoniker": "First Project\\FileName.cpp",
+              "ToolTip": "C:\\Users\\borac\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\First Project\\First Project\\FileName.cpp",
+              "RelativeToolTip": "First Project\\FileName.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T13:23:41.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
